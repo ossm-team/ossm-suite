@@ -1,9 +1,6 @@
 # Open Standards for Sensorimotor Modeling (OSSM)
 
-The **OSSM ecosystem** is a community-driven effort to standardize and accelerate research in computational sensorimotor neuroscience.  
-It is supported by the [NWO Open Science Fund](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund).
-
-OSSM provides **open standards, tools, and catalogues** for building, sharing, and analyzing models of the sensorimotor system.
+The **OSSM ecosystem** is a community-driven effort to standardize and accelerate research in computational sensorimotor neuroscience. It is supported by the [NWO Open Science Fund](https://www.nwo.nl/en/researchprogrammes/open-science/open-science-fund). OSSM provides **open standards, tools, and catalogues** for building, sharing, and analyzing models of the sensorimotor system.
 
 ## Install the entire ecosystem
 
